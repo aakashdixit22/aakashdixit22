@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakashdixit22" alt="aakashdixit22" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs and DSA in CPP.**
+- 🌱 I’m currently learning **DSA in CPP.**
 
 - 💬 Ask me about **NodeJs, C++ and Python**
 
