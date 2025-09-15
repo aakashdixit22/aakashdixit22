@@ -69,11 +69,7 @@
 
 ---
 
-## 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aakashdixit22&theme=radical&hide_border=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" />
-</p>
 
 ---
 
