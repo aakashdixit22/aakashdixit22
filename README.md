@@ -60,7 +60,7 @@ const aakashDixit = {
   role: "💼 Full Stack Developer",
   expertise: ["Web Development", "AI Integration", "System Design"],
   currentlyLearning: ["Advanced DSA", "Cloud Architecture", "Design Patterns"],
-  architecturePreferences: ["RESTful APIs", "Microservices", "Component-Based Design"],
+  architecturePreferences: ["RESTful APIs", "Component-Based Design"],
   lifePhilosophy: "Code with purpose, build with passion 💜"
 };
 ```
